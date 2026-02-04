@@ -62,12 +62,6 @@ real-world, production-ready software systems.
 
 ---
 
-## 🏆 Competitive Programming Profiles
-
-- **LeetCode:** https://leetcode.com/u/8o0wb9vpOC/
-- **CodeChef:** https://www.codechef.com/users/sahilghidode
-
----
 
 ## 🎓 Education
 

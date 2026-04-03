@@ -67,7 +67,7 @@ real-world, production-ready software systems.
 
 Bachelor of Engineering in Computer Science and Engineering  
 Oriental Institute of Science and Technology  
-2023 – 2027 | CGPA: 7.33 / 10
+2023 – 2027 
 
 ---
 
